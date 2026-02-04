@@ -66,7 +66,6 @@
 
 <div class="card">
     <h1>CI/CD Pipeline Experiment</h1>
-    <h2>Jenkins • Gradle • Apache Tomcat</h2>
 
     <div class="info">
         <p>
